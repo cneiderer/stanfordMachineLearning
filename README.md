@@ -3,7 +3,7 @@ Machine Learning (Summer 2014)
 ###by Andrew Ng (Stanford)
 -----------------------------
 
-Programming assignments from Andrew Ng's machine learning course on Coursera.
+Programming assignments from Andrew Ng's Machine Learning course on Coursera. (https://www.coursera.org/course/ml)
 
 ------------------------------------------------------------------------------
 ####Syllabus
