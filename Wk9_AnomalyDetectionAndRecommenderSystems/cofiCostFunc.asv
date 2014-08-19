@@ -56,7 +56,7 @@ end
 
 % Iterate over the movies to compute X_grad
 for k = 1:num_movies
-    idx = find(R(k, :) == 1); % Find users that have rated movie k
+    idx = find(R(k, :) == 1); % Find users that 
     Theta_temp = Theta(idx, :);
     Y_temp = Y(k, idx);
     X_grad(k, :) = (X(k, :) * Theta_temp' - Y_temp) * Theta_temp + ...
